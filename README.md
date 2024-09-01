@@ -12,8 +12,8 @@ Welcome to the official repository for K-Aim V4, an advanced AI-powered aim-assi
 ## Showcase
 Experience K-Aim V4 in action! Watch our [YouTube showcase](https://youtu.be/6kC_kCiT-nA?si=ejRyAATxkMFdFz_v) to see its capabilities.
 
-![YouTube Video Thumbnail](https://www.youtube.com/watch?v=6kC_kCiT-nA)
-
+[![Youtube Showcase](https://kaimv4.kepar.online/images/ai_soft_aim_thumbnail.png)](https://www.youtube.com/watch?v=6kC_kCiT-nA)
+    
 ## Get Access
 To gain access to K-Aim V4, please join our [Discord community](https://discord.gg/2ddNMyvg). Here, you can obtain a premium license and receive dedicated support and updates.
 
